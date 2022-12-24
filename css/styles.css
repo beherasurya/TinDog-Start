@@ -43,19 +43,25 @@ body{
     padding-right: 2rem;
     padding-left: 2rem;
 }
-svg{
+.icon{
     height: 40px;
     width: 40px;
+    color: #ef8172;
+    margin-bottom: 1rem;
 }
-svg:hover{
-    color: yellow;
+.icon:hover{
+    color:yellow;
 }
+
 h3{
     font-weight: bold;
-    font-family: "Montserrat-Black";
+    font-family: "Montserrat-Bold";
 }
  #features{
-    margin-top: 150px;
-    margin-bottom: 150px;
+    padding: 7% 15%;
 
-} 
+}
+.feature-box
+{
+    padding: 5%;
+}
