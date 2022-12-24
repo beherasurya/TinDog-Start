@@ -43,3 +43,19 @@ body{
     padding-right: 2rem;
     padding-left: 2rem;
 }
+svg{
+    height: 40px;
+    width: 40px;
+}
+svg:hover{
+    color: yellow;
+}
+h3{
+    font-weight: bold;
+    font-family: "Montserrat-Black";
+}
+ #features{
+    margin-top: 150px;
+    margin-bottom: 150px;
+
+} 
