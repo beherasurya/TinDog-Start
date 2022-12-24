@@ -39,3 +39,7 @@ body{
     width: 60%;
     transform: rotate(25deg);
 }
+.download-button{
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
